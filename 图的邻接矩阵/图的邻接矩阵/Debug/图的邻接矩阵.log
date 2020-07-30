@@ -1,0 +1,5 @@
+﻿  源.cpp
+g:\c++\图的邻接矩阵\图的邻接矩阵\源.cpp(5): warning C4005: “INFINITY”: 宏重定义
+  d:\windows kits\10\include\10.0.17763.0\ucrt\corecrt_math.h(90): note: 参见“INFINITY”的前一个定义
+MSVCRTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 _main，该符号在函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中被引用
+G:\c++\图的邻接矩阵\Debug\图的邻接矩阵.exe : fatal error LNK1120: 1 个无法解析的外部命令
